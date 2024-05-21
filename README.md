@@ -1,7 +1,7 @@
 
 ## Hi, Want to know something?
 
-I'm a [blogger](https://mxz94.asia)
+I'm a [blogger](https://malanxi.top)
 
 **I often use:**  
 
