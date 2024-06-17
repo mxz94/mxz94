@@ -10,6 +10,8 @@ I'm a [blogger](https://malanxi.top)
 |                                         Docker                                          |                                        Java                                         |                                          Node.js                                           |                                         JavaScript                                          |                                           BASH                                           |                                         Python                                          |                        c                                            |
 
 
+![我的博客](https://malanxi.top/)
+![我的运动记录](https://run.malanxi.top/)
 
 And some uncertain languages and tools.
 
